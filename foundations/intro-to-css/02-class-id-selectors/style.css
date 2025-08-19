@@ -1,0 +1,19 @@
+.oddnumbered, .furthermore{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: hsl(351, 100%, 86%);
+}
+.furthermore{
+    font-size: 24px;
+
+}
+
+#testID{
+    color: hwb(240 0% 0%);
+    font-size: 36px;
+}
+
+.additionally{
+    background-color: #90ee90;
+    font-size:24px;
+    font-weight: bold;
+}
